@@ -1,0 +1,2 @@
+A Responsive Portfolio 
+I have created a responsive portfolio that has all working navigation links. I was not able to get the nav bar to the right like I intended to and am looking forward to any feedback on how to fix it. I did struggle with aligning the columns and rows; but I'm pretty content with how far I was able to get on this assignment. 
